@@ -1,0 +1,20 @@
+{
+  "modelId": "amazon.nova-reel-v1:1",
+  "modelInput": {
+    "taskType": "MULTI_SHOT_AUTOMATED",
+    "multiShotAutomatedParams": {
+      "text": "Photoreal cinematic film, 24fps, no captions. A young astronaut wakes alone in an abandoned space station. Establishing wide of the station, then a corridor with something moving at the far end. Slow dolly, practical lights, film grain."
+    },
+    "videoGenerationConfig": {
+      "durationSeconds": 12,
+      "fps": 24,
+      "dimension": "1280x720",
+      "seed": 7
+    }
+  },
+  "outputDataConfig": {
+    "s3OutputDataConfig": {
+      "s3Uri": "s3://storyworld-cinematics-120569623789/jobs/"
+    }
+  }
+}

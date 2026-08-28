@@ -1,0 +1,9 @@
+{
+  "worldId": "1b9191b8-af90-46e1-96fd-5852b6d7134f",
+  "caption": "The scene is a futuristic orbital habitat corridor, rendered in a realistic style with a serene and contemplative tone, emphasizing advanced technology and the vastness of space. The corridor features sleek, metallic walls with a polished, reflective surface that subtly mirrors the ambient lighting. Soft blue LED strips are embedded along the base of the walls and ceiling, casting a gentle, ethereal glow throughout the passageway. A large, panoramic window dominates one side of the corridor, offering a breathtaking view of Earth, which appears as a vibrant blue and white marble against the inky blackness of space. The Earth's continents are clearly visible, swirled with white clouds, and its curvature is pronounced, highlighting the orbital perspective. The floor of the corridor is made of a dark, seamless material, possibly a composite, which further enhances the futuristic aesthetic. There are no visible seams or imperfections in the construction, suggesting a high level of engineering. The window is framed by a minimalist metallic border, integrating it smoothly into the wall structure. The blue lights create a calming atmosphere, contrasting with the stark beauty of the Earth outside. The corridor extends into the distance, suggesting a larger, complex station. The panoramic window is set into the wall, providing an unobstructed view of Earth. The blue LED strips run continuously along the length of the corridor, illuminating the metallic surfaces. ",
+  "marbleUrl": "https://marble.worldlabs.ai/world/1b9191b8-af90-46e1-96fd-5852b6d7134f",
+  "scale": 0.31585365533828735,
+  "ground": 0.4399665594100952,
+  "splatUrl": "/worlds/marble/1b9191b8-af90-46e1-96fd-5852b6d7134f.spz",
+  "colliderUrl": "/worlds/marble/1b9191b8-af90-46e1-96fd-5852b6d7134f.glb"
+}

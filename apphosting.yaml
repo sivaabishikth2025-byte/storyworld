@@ -1,0 +1,21 @@
+runConfig:
+  cpu: 2
+  memoryMiB: 1024
+  minInstances: 0
+  maxInstances: 10
+  concurrency: 80
+
+env:
+  - variable: NODE_ENV
+    value: production
+    availability:
+      - BUILD
+      - RUNTIME
+  - variable: STORYWORLD_AUTH_STORE
+    value: firestore
+    availability:
+      - RUNTIME
+  - variable: AUTH_SECRET
+    secret: AUTH_SECRET
+  - variable: WLT_API_KEY
+    secret: WLT_API_KEY
