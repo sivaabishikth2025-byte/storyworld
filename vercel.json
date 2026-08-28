@@ -1,0 +1,25 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "functions": {
+    "src/app/api/video/generate/route.ts": {
+      "maxDuration": 60
+    },
+    "src/app/api/video/status/route.ts": {
+      "maxDuration": 30
+    },
+    "src/app/api/world/generate/route.ts": {
+      "maxDuration": 60
+    },
+    "src/app/api/world/status/route.ts": {
+      "maxDuration": 30
+    },
+    "src/app/api/world/gallery/route.ts": {
+      "maxDuration": 30
+    },
+    "src/app/api/world/asset/route.ts": {
+      "maxDuration": 60
+    }
+  }
+}
